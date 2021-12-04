@@ -1,10 +1,13 @@
-### Hello World, me chamo Lilian Martins! Sejam muito bem vindos!
+### Hello World, me chamo Lilian Martins! Sejam muito bem-vindos!
 
 🌟 💻 Atualmente eu trabalho com FullStack;
 
-🌟 ⌨️  Committs dos meus projetos pessoais aqui; 
+🌟 ⌨️  Trago meus projetos pessoais aqui; 
 
 🌟 📚 Estudo Back-end;
+
+🌟 Obstinada pela tecnologia, e assim como a frase de Steve Jobs pode declarar "A tecnologia move o mundo".
+
 
 ##
 
