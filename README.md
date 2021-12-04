@@ -4,7 +4,7 @@
 
 🌟 ⌨️  Committs dos meus projetos pessoais aqui; 
 
-🌟 📚 Estudo bock-end;
+🌟 📚 Estudo Back-end;
 
 ##
 
