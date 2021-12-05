@@ -1,6 +1,6 @@
 ### Hello World, me chamo Lilian Martins! Sejam muito bem-vindos!
 
-🌟 💻 Atualmente eu trabalho com FullStack;
+🌟 💻 Atualmente eu trabalho com Full Stack;
 
 🌟 ⌨️  Trago meus projetos pessoais aqui; 
 
