@@ -20,8 +20,8 @@
 
 <div align="center">
   <a href="https://github.com/LilianMartins">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LilianMartins&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilianMartins&layout=compact&langs_count=7&theme=synthwave"/>
+  <img  height="380" width="48%" src="https://github-readme-stats.vercel.app/api?username=LilianMartins&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img  height="380" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilianMartins&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
 ##
