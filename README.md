@@ -16,6 +16,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LilianMartins&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilianMartins&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
+  
+  
+  https://discordapp.com/channels/@me/520009620098514944/916845107515392010
  
 
 <div style="display: inline_block"><br>
@@ -26,7 +29,8 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src=https://discordapp.com/channels/@me/520009620098514944/916845107515392010
+</div>
 
   ##
  
