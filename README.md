@@ -6,11 +6,9 @@
 
 ##
 
-🌟 💻 Atualmente eu trabalho com Full Stack;
-
 🌟 ⌨️  Trago meus projetos pessoais aqui; 
 
-🌟 📚 Estudo Back-end;
+🌟 📚 Estudo Front-End e Back-end;
 
 🌟 Obstinada pela tecnologia, e assim como a frase de Steve Jobs pode declarar "A tecnologia move o mundo".
 
