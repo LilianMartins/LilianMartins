@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="180em" src= "https://cdn.discordapp.com/attachments/520009620098514944/916848246679298108/1603670497046.jpg"/>
+  <img src= "https://cdn.discordapp.com/attachments/520009620098514944/916851703922450462/esseee.png"/>
 </div>
 
 ### Hello World, me chamo Lilian Martins! 
@@ -20,8 +20,8 @@
 
 <div align="center">
   <a href="https://github.com/LilianMartins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LilianMartins&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilianMartins&layout=compact&langs_count=7&theme=synthwave"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LilianMartins&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilianMartins&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
 ##
@@ -37,6 +37,8 @@
   <img align="center" alt="Lili-oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   <img align="right" alt="Lili-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/520009620098514944/916845107276304444/download20211206211410.png"
 </div>
+  
+ 
 
   ##
  
