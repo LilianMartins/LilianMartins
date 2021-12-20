@@ -2,9 +2,9 @@
   <img src= "https://cdn.discordapp.com/attachments/520009620098514944/916851703922450462/esseee.png"/>
 </div>
 
-### Hello World, me chamo Lilian Martins! Sejam muito bem-vindos!
+<h2 align="center"> Hello World, me chamo Lilian Martins! Sejam muito bem-vindos! </h2>
 
-##
+----
 
 🌟 ⌨️  Trago meus projetos pessoais aqui; 
 
@@ -24,7 +24,7 @@
 ##
  
   
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Lili-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Lili-boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img align="center" alt="Lili-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" >
@@ -35,10 +35,8 @@
   <img align="right" alt="Lili-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/520009620098514944/916845107276304444/download20211206211410.png"
 </div>
   
- 
-
-  ##
+ <p>&nbsp;</p>
  
 <div>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lilian-martins-543bb6119/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
