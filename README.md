@@ -32,8 +32,7 @@
   <img align="center" alt="Lili-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Lili-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Lili-oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="right" alt="Lili-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/520009620098514944/916845107276304444/download20211206211410.png"
-</div>
+  <img align="right" alt="Lili-pic" height="150" style="border-radius:50px;" /div>
   
  
 
