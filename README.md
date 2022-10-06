@@ -19,7 +19,7 @@
 
 
 
-###  ![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/71985546/194201738-2c307202-81f2-4128-afb9-1c1bcc7bb824.gif) Minhas Skills 
+###  ![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/71985546/194201738-2c307202-81f2-4128-afb9-1c1bcc7bb824.gif) My Skills 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lili-javascript" height="25" width="65" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -35,17 +35,27 @@
   
 ## 
   
-### My Hobby
+### ![ezgif com-gif-maker (13)](https://user-images.githubusercontent.com/71985546/194206959-33852aa8-5a72-45b3-af75-765406045d89.gif) My Hobby
   
-  Read Books;
-  A like a travel;
-  Play video games;
-  Watch anime;
+  🌟 📚 Read Books;
+  
+  🌟 🪐 Search about astrophysics
+  
+  🌟 ✈️ A like a travel;
+  
+  🌟 🎮 Play video games;
+  
+  🌟 🖥️ Watch anime;
+  
+##  
   
 ### ![ezgif com-gif-maker (11)](https://user-images.githubusercontent.com/71985546/194205226-43a2dcaa-2fe2-47ec-b0e5-62cec938b1c6.gif) My Languages with levels
-  Portuguese (Native-fluent);
-  English (average);
-  Korean (basic);
+  
+  🌟 🇧🇷 Portuguese (Native-fluent);
+  
+  🌟 🇺🇸 English (average);
+  
+  🌟 🇰🇷 Korean (basic);
   
   
 ##  
@@ -58,7 +68,7 @@
 ##
   
   
-  ### ![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/71985546/194202187-52ee6090-1ef4-4ec9-9167-6967bd4ffbe3.gif) Minhas Estatísticas
+  ### ![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/71985546/194202187-52ee6090-1ef4-4ec9-9167-6967bd4ffbe3.gif) My Statistics
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)  
   
