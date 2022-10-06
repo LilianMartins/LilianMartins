@@ -15,7 +15,6 @@
 
 
 
-##
 ### Minhas Skills 
   
 <div style="display: inline_block"><br>
@@ -32,7 +31,7 @@
   
  
 
-  ### Minhas Skills 
+  ### Minhas Redes Sociais
  ## 
 <div>
   <a href="https://www.linkedin.com/in/lilian-martins-543bb6119" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -41,7 +40,7 @@
   
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
-##
+  ### Minhas Estatísticas
   
 <div align="center">
   <a href="https://github.com/LilianMartins">
