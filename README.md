@@ -53,14 +53,14 @@
   
   🌟 🇧🇷 Portuguese (Native-fluent);
   
-  🌟 🇺🇸 English (average);
+  🌟 🇺🇸 English (Average);
   
-  🌟 🇰🇷 Korean (basic);
+  🌟 🇰🇷 Korean (Basic);
   
   
 ##  
 
-  ### ![ezgif com-gif-maker (9)](https://user-images.githubusercontent.com/71985546/194202300-9146fede-8b45-4938-b6b8-aead623112d1.gif) Minhas Redes Sociais
+  ### ![ezgif com-gif-maker (9)](https://user-images.githubusercontent.com/71985546/194202300-9146fede-8b45-4938-b6b8-aead623112d1.gif) My Social Networks
  
 <div>
   <a href="https://www.linkedin.com/in/lilian-martins-543bb6119" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
