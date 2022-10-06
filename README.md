@@ -33,6 +33,7 @@
   <img align="center" alt="Lili-css" height="25" width="65" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" >
   <img align="center" alt="Lili-html5" height="25" width="65" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <br> 
+  <div style="display: inline_block"><br>  
  📌 Tecnologias que trabalho hoje:
   <br>
 <div style="display: inline_block"><br>  
@@ -40,6 +41,7 @@
   <img align="center" alt="Lili-oracle" height="25" width="65" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
   <img align="center" alt="Lili-oracle" height="25" width="65" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
  <br> 
+  <div style="display: inline_block"><br>  
  📌 Tecnologias que estudo:
   <br>
   <img align="center" alt="Lili-dart" height="25" width="65" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
