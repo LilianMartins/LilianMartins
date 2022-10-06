@@ -35,7 +35,7 @@
   
 ## 
   
-### ![ezgif com-gif-maker (13)](https://user-images.githubusercontent.com/71985546/194206959-33852aa8-5a72-45b3-af75-765406045d89.gif) My Hobby
+### ![ezgif com-gif-maker (11)](https://user-images.githubusercontent.com/71985546/194207456-b550c877-4fc1-4a81-826b-280620354082.gif) My Hobby
   
   🌟 📚 Read Books;
   
@@ -49,7 +49,7 @@
   
 ##  
   
-### ![ezgif com-gif-maker (11)](https://user-images.githubusercontent.com/71985546/194205226-43a2dcaa-2fe2-47ec-b0e5-62cec938b1c6.gif) My Languages with levels
+### ![ezgif com-gif-maker (11)](https://user-images.githubusercontent.com/71985546/194207376-f5b48f29-5546-4e82-bdf1-1d3cf668116a.gif) My Languages with levels
   
   🌟 🇧🇷 Portuguese (Native-fluent);
   
