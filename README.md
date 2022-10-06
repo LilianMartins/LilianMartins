@@ -30,11 +30,13 @@
   <img align="center" alt="Lili-boot" height="25" width="65" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="Lili-css" height="25" width="65" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" >
   <img align="center" alt="Lili-html5" height="25" width="65" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <br> 
  📌 Tecnologias que trabalho hoje:
 <div style="display: inline_block"><br>  
   <img align="center" alt="Lili-java" height="25" width="65" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Lili-oracle" height="25" width="65" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
   <img align="center" alt="Lili-oracle" height="25" width="65" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+ <br> 
  📌 Tecnologias que estudo:
 <div style="display: inline_block"><br>  
   <img align="center" alt="Lili-dart" height="25" width="65" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
