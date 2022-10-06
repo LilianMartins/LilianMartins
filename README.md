@@ -45,7 +45,7 @@
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)  
   
   
-  ### ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/71985546/194200266-bd20d03c-c62f-4f05-8503-b15ca66e3c2e.gif) Minhas Estatísticas
+  ### ![ezgif com-gif-maker (9)](https://user-images.githubusercontent.com/71985546/194202094-2624dd20-5bcd-46bd-b3fd-755ebec4a853.gif) Minhas Estatísticas
   
 <div align="center">
   <a href="https://github.com/LilianMartins">
