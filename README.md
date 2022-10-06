@@ -40,7 +40,7 @@
   
   ##
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
   
 ##
   
@@ -50,3 +50,8 @@
   <img  height="180" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilianMartins&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
  
+  ##
+  
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+  ##
