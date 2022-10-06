@@ -1,7 +1,5 @@
 <div align="center">  
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/71985546/194199552-4cb4c915-4724-4fa3-a149-fabb46234b0c.gif)
-
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/71985546/194199616-7ad1dcb9-e8bb-4dd2-a6c2-63e34bdfb8e0.gif)
 </div>
 
 
