@@ -1,10 +1,6 @@
-<div align="center">
-  
+<div align="center">  
 
-![214311](https://user-images.githubusercontent.com/71985546/194199344-23d4e69c-bd83-49f0-8f03-4227fc68ecaa.gif)
-
-
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/71985546/194199552-4cb4c915-4724-4fa3-a149-fabb46234b0c.gif)
 
 </div>
 
