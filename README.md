@@ -19,7 +19,7 @@
 
 
 
-### ![gatinhoo](https://user-images.githubusercontent.com/71985546/194200209-e2b28939-e8c4-454f-92cb-8ff9f676c680.gif) Minhas Skills 
+### ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/71985546/194200266-bd20d03c-c62f-4f05-8503-b15ca66e3c2e.gif) Minhas Skills 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lili-javascript" height="25" width="65" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
