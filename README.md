@@ -45,7 +45,7 @@
   
   🌟 🎮 Play video games;
   
-  🌟 🖥️ Watch anime;
+  🌟 🖥️ Watch anime.
   
 ##  
   
@@ -55,7 +55,7 @@
   
   🌟 🇺🇸 English (Average);
   
-  🌟 🇰🇷 Korean (Basic);
+  🌟 🇰🇷 Korean (Basic).
   
   
 ##  
