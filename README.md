@@ -5,15 +5,15 @@
 </div>
 
 
-### ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/71985546/194200126-503ec68a-8e39-4870-94cc-92186908dc8f.gif) Hello World, sou a Lilian Martins! Sejam muito bem-vindos!
+### ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/71985546/194200126-503ec68a-8e39-4870-94cc-92186908dc8f.gif) Hello World, i am Lilian Martins! Welcome, everyone!
 
 ##
 
-🌟 ⌨️  Trago meus projetos pessoais aqui; 
+🌟 ⌨️ I bring my personal projects here;
 
-🌟 📚 Estudo Front-End e Back-end;
+🌟 📚 Study Front-End and Back-end;
 
-🌟 💜 Obstinada pela tecnologia, e assim como a frase de Steve Jobs pode declarar "A tecnologia move o mundo".
+🌟 💜 Obsessed with technology, and just like Steve Jobs' phrase can declare "Technology moves the world".
 
 ##
 
@@ -34,6 +34,21 @@
   <img align="center" alt="Lili-kotlin" height="25" width="65" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   
 ## 
+  
+### My Hobby
+  
+  Read Books;
+  A like a travel;
+  Play video games;
+  Watch anime;
+  
+### ![ezgif com-gif-maker (11)](https://user-images.githubusercontent.com/71985546/194205226-43a2dcaa-2fe2-47ec-b0e5-62cec938b1c6.gif) My Languages with levels
+  Portuguese (Native-fluent);
+  English (average);
+  Korean (basic);
+  
+  
+##  
 
   ### ![ezgif com-gif-maker (9)](https://user-images.githubusercontent.com/71985546/194202300-9146fede-8b45-4938-b6b8-aead623112d1.gif) Minhas Redes Sociais
  
@@ -41,7 +56,6 @@
   <a href="https://www.linkedin.com/in/lilian-martins-543bb6119" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 ##
-  
   
   
   ### ![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/71985546/194202187-52ee6090-1ef4-4ec9-9167-6967bd4ffbe3.gif) Minhas Estatísticas
