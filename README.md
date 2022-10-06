@@ -19,7 +19,7 @@
 
 
 
-### ![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/71985546/194201623-64675469-ffdf-4b8b-97a2-01a90ad7d2ac.gif) Minhas Skills 
+###  ![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/71985546/194201738-2c307202-81f2-4128-afb9-1c1bcc7bb824.gif) Minhas Skills 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lili-javascript" height="25" width="65" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -35,7 +35,7 @@
   
 ## 
 
-  ### Minhas Redes Sociais
+  ### ![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/71985546/194201855-a19b1996-d7fd-4bed-acb4-da0abae4d939.gif) Minhas Redes Sociais
  
 <div>
   <a href="https://www.linkedin.com/in/lilian-martins-543bb6119" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
