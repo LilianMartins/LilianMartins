@@ -15,9 +15,8 @@
 
 ##
 
-![gatinhoo](https://user-images.githubusercontent.com/71985546/194195252-5f6b93c8-f4ff-40df-8e10-6dc645392450.gif)
 
-### Minhas Skills 
+![1](https://user-images.githubusercontent.com/71985546/194195482-03964ed2-5034-44a1-bc09-5496c2677331.gif) ### Minhas Skills 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lili-javascript" height="25" width="65" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
