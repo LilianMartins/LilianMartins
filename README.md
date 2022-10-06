@@ -1,8 +1,7 @@
 <div align="center">
-  <img  height="25" width="65" src= "https://cdn.discordapp.com/attachments/520009620098514944/916851703922450462/esseee.png"/>
+  <img src= "https://cdn.discordapp.com/attachments/520009620098514944/916851703922450462/esseee.png"/>
 </div>
 
-![5131200f003a573b9ac291e8fb5de432](https://user-images.githubusercontent.com/71985546/194193746-fbe08865-9222-4959-a4f1-e4c82bc8c190.jpg)
 
 ### Hello World, me chamo Lilian Martins! Sejam muito bem-vindos!
 
