@@ -12,7 +12,7 @@
 
 🌟 Obstinada pela tecnologia, e assim como a frase de Steve Jobs pode declarar "A tecnologia move o mundo".
 
-
+##
 
 
 ### Minhas Skills 
