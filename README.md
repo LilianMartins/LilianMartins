@@ -10,7 +10,7 @@
 
 🌟 📚 Estudo Front-End e Back-end;
 
-🌟 Obstinada pela tecnologia, e assim como a frase de Steve Jobs pode declarar "A tecnologia move o mundo".
+🌟 💜 Obstinada pela tecnologia, e assim como a frase de Steve Jobs pode declarar "A tecnologia move o mundo".
 
 ##
 
