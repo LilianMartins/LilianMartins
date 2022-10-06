@@ -30,7 +30,7 @@
   <img align="center" alt="Lili-kotlin" height="25" width="65" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   
  
-<div style="display: inline_block"><br>
+
   ### Minhas Redes Sociais
  ## 
 <div>
