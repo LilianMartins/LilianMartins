@@ -35,7 +35,7 @@
   
 ## 
 
-  ### ![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/71985546/194201855-a19b1996-d7fd-4bed-acb4-da0abae4d939.gif) Minhas Redes Sociais
+  ### ![ezgif com-gif-maker (9)](https://user-images.githubusercontent.com/71985546/194202300-9146fede-8b45-4938-b6b8-aead623112d1.gif) Minhas Redes Sociais
  
 <div>
   <a href="https://www.linkedin.com/in/lilian-martins-543bb6119" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
