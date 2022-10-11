@@ -1,4 +1,4 @@
-<div align="center">  
+ align="center">  
   
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/71985546/194199616-7ad1dcb9-e8bb-4dd2-a6c2-63e34bdfb8e0.gif)
   
@@ -78,7 +78,4 @@
   <img  height="180" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilianMartins&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
-  
-  
-  
-  
+ 
