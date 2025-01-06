@@ -57,6 +57,7 @@
   
   🌟 🇰🇷 Korean (Basic).
   
+  🌟 🇯🇵 Japanese (Basic).
   
 ##  
 
