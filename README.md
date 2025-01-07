@@ -27,9 +27,6 @@
   <img align="center" alt="Lili-java" height="25" width="65" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Lili-oracle" height="25" width="65" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
   <img align="center" alt="Spring" height="25" width="65" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img align="center" alt="Lili-dart" height="25" width="65" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img align="center" alt="Lili-flutter" height="25" width="65" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img align="center" alt="Lili-kotlin" height="25" width="65" alt="Static Badge" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img aling="center" alt="Lili-api"  height="25" width="65" alt="Static Badge" src="https://img.shields.io/badge/api-F80000?style=for-the-badge&logo=api&logoColor=black">
 
 
