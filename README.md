@@ -27,7 +27,7 @@
   <img align="center" alt="Lili-java" height="25" width="65" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Lili-oracle" height="25" width="65" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
   <img align="center" alt="Lili-Spring" height="25" width="65" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img aling="center" alt="Lili-api" height="25" width="65"  src="https://img.shields.io/badge/api-F80000?style=for-the-badge&logo=api&logoColor=black">
+
 
 
 
