@@ -11,7 +11,7 @@
 
 🌟 📚 Study Front-End and Back-end;
 
-🌟 💜 Loved for technology, and just like Steve Jobs' phrase can declare "Technology moves the world".
+🌟 💜 Loved for technology, and just like Steve Jobs phrase can declare "Technology moves the world".
 
 ##
 
