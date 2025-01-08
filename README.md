@@ -15,8 +15,6 @@
 
 ##
 
-
-
 ###  ![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/71985546/194201738-2c307202-81f2-4128-afb9-1c1bcc7bb824.gif) My Skills 
   
 <div style="display: inline_block"><br>
