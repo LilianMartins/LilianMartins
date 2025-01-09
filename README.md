@@ -36,7 +36,7 @@
   
   🌟 📚 Read Books;
   
-  🌟 🪐 Search about astrophysics
+  🌟 🪐 Search about astrophysics;
   
   🌟 ✈️ A like a travel;
   
