@@ -18,7 +18,8 @@
 ###  ![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/71985546/194201738-2c307202-81f2-4128-afb9-1c1bcc7bb824.gif) My Skills 
   
 <div style="display: inline_block"><br>
- <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAP5JREFUOE+d0j8oRVEcB/DPMyIGqySRQVn82QzKZKBsLG9hMVmU7BKbwUwmKSmxKYUsKCmxYhID2Z7CPXVfjtsZXs52Or/P73zv/Z2Sf65S5NrQUUOfc1RiOIv1GmATPmI4gV3c4jXRoAcNqA9nMRzCCcpZ5K0EPEIn2ouwG/eYxwN2EvgCg0XYjDesZHFW0VuAezjFWBGGfQU3OIjQIzbwmcXcxHQKPuEOU3jJ8T5m8IzlrPliCl7iGwPZrf3oy7+1NU8yh7UUPMQorhBuCqMJ+3G0YBLbKbiEBdQl/ug7RhBS/ZljtbYRYabD6MqKz3CMa3xVi+IHUMNr+y35AYr+Lw/PdD9yAAAAAElFTkSuQmCC"/>
+
+  <i class="bi bi-filetype-html"></i>
   <img align="center" alt="Lili-javascript" height="25" width="65" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Lili-boot" height="25" width="65" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="Lili-css" height="25" width="65" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" >
