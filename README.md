@@ -1,13 +1,11 @@
  ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/71985546/194199616-7ad1dcb9-e8bb-4dd2-a6c2-63e34bdfb8e0.gif)
 
-  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' >
 </div>
 
 
 ### ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/71985546/194200126-503ec68a-8e39-4870-94cc-92186908dc8f.gif) Hello World, i'am Lilian Martins! Welcome, everyone!
 
 ##
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAP5JREFUOE+d0j8oRVEcB/DPMyIGqySRQVn82QzKZKBsLG9hMVmU7BKbwUwmKSmxKYUsKCmxYhID2Z7CPXVfjtsZXs52Or/P73zv/Z2Sf65S5NrQUUOfc1RiOIv1GmATPmI4gV3c4jXRoAcNqA9nMRzCCcpZ5K0EPEIn2ouwG/eYxwN2EvgCg0XYjDesZHFW0VuAezjFWBGGfQU3OIjQIzbwmcXcxHQKPuEOU3jJ8T5m8IzlrPliCl7iGwPZrf3oy7+1NU8yh7UUPMQorhBuCqMJ+3G0YBLbKbiEBdQl/ug7RhBS/ZljtbYRYabD6MqKz3CMa3xVi+IHUMNr+y35AYr+Lw/PdD9yAAAAAElFTkSuQmCC"/>
 🌟 ⌨️ I bring my personal projects here;
 
 🌟 📚 Study Front-End and Back-end;
