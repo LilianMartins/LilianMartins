@@ -3,8 +3,6 @@
 </div>
 
 
-
-
 ### ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/71985546/194200126-503ec68a-8e39-4870-94cc-92186908dc8f.gif) Hello World, i'am Lilian Martins! Welcome, everyone!
 
 ##
